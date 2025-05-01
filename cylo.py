@@ -3,7 +3,7 @@ import urllib.parse
 
 __ENDPOINT_URL__: str = "https://cpmazraeldevs.squareweb.app/api/"
 
-class :Bubcyz
+class Bubcyz:
     def __init__(self, access_key) -> None:
         self.auth_token = None
         self.access_key = access_key
