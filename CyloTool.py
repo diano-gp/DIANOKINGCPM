@@ -44,8 +44,8 @@ def banner(console):
     
     console.print(text)
     console.print("[bold white] ============================================================[/bold white]")
-    console.print("[bold yellow]      𝗣𝗟𝗘𝗔𝗦𝗘 𝗟𝗢𝗚 𝗢𝗨𝗧 𝗙𝗥𝗢𝗠 𝗖𝗣𝗠 𝗕𝗘𝗙𝗢𝗥𝗘 𝗨𝗦𝗜𝗡𝗚 𝗧𝗛𝗜𝗦 𝗧𝗢𝗢𝗟[/bold yellow]")
-    console.print("[bold red]      𝗦𝗛𝗔𝗥𝗜𝗡𝗚 𝗧𝗛𝗘 𝗔𝗖𝗖𝗘𝗦 𝗞𝗘𝗬 𝗜𝗦 𝗡𝗢𝗧 𝗔𝗟𝗟𝗢𝗪𝗘𝗗[/bold red]")
+    console.print("[bold yellow]      DIANOKING Hacking tools x cpm[/bold yellow]")
+    console.print("[bold red]      [/bold red]")
     console.print("[bold white] ============================================================[/bold white]")  
     
 def load_player_data(cpm):
